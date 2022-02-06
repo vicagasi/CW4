@@ -1,4 +1,10 @@
-﻿using System;
+/*
+ * Author: Victor Gasior 3
+ * Date: 2/5/22
+ * File: Program.cs
+*/
+
+using System;
 
 namespace ShapeFactory
 {
