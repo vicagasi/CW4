@@ -1,0 +1,14 @@
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.exe
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.deps.json
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.runtimeconfig.json
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.runtimeconfig.dev.json
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.dll
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.pdb
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.csproj.AssemblyReference.cache
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.AssemblyInfoInputs.cache
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.AssemblyInfo.cs
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.csproj.CoreCompileInputs.cache
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.dll
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.pdb
+D:\Coding\Software Dev\CW4\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.genruntimeconfig.cache

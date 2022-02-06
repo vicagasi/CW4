@@ -1,0 +1,14 @@
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\bin\Debug\netcoreapp3.1\IPhoneFactory.exe
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\bin\Debug\netcoreapp3.1\IPhoneFactory.deps.json
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\bin\Debug\netcoreapp3.1\IPhoneFactory.runtimeconfig.json
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\bin\Debug\netcoreapp3.1\IPhoneFactory.runtimeconfig.dev.json
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\bin\Debug\netcoreapp3.1\IPhoneFactory.dll
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\bin\Debug\netcoreapp3.1\IPhoneFactory.pdb
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.csproj.AssemblyReference.cache
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.AssemblyInfoInputs.cache
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.AssemblyInfo.cs
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.csproj.CoreCompileInputs.cache
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.dll
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.pdb
+D:\Coding\Software Dev\CW4\IPhoneFactory\IPhoneFactory\obj\Debug\netcoreapp3.1\IPhoneFactory.genruntimeconfig.cache
