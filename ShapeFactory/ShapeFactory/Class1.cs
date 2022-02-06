@@ -1,4 +1,10 @@
-﻿using System;
+/*
+ * Author: Victor Gasior 3
+ * Date: 2/5/22
+ * File: Class1.cs
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
